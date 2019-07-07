@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="49427davSoftwareDevelopme.Calend" Version="1.1.1.0" Publisher="CN=34761CCA-A79E-46B8-A1BC-D17F44039844" />
+  <Identity Name="49427davSoftwareDevelopme.Calend" Version="1.1.2.0" Publisher="CN=34761CCA-A79E-46B8-A1BC-D17F44039844" />
   <mp:PhoneIdentity PhoneProductId="0e4a2452-be78-4a13-a6f8-da1dd75dc755" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>Calendо</DisplayName>
